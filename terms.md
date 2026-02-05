@@ -1,63 +1,61 @@
-📜 Terms of Service
+# Terms of Service — Korvex
 
-Last Updated: February 2026
+**Last Updated:** February 2026
 
-By inviting or using Korvex (“the bot”) in your Discord server, you agree to these Terms of Service.
+By inviting or using **Korvex** (“the bot”) in your Discord server, you agree to these Terms of Service. If you do not agree with these terms, please discontinue use of the bot.
 
-1. Acceptance of Terms
+---
 
-Using Korvex means you agree to follow these terms. If you do not agree, please do not use the bot.
+## 1. Acceptance of Terms
+By accessing or using Korvex, you confirm that you have read, understood, and agreed to these Terms of Service.
 
-2. Description of Service
+---
 
-Korvex is a public Discord bot that provides utility features, including but not limited to:
+## 2. Description of Service
+Korvex is a public Discord utility bot that provides features including, but not limited to:
+- AFK systems  
+- Utility and informational commands  
+- Server-related tools  
 
-AFK systems
+Features may be added, modified, or removed at any time without prior notice.
 
-Informational commands
+---
 
-Server-related utilities
+## 3. User Responsibilities
+You agree not to:
+- Use Korvex in violation of Discord’s Terms of Service or Community Guidelines  
+- Abuse, spam, or exploit any bot features  
+- Attempt to disrupt, reverse engineer, or harm the bot or its services  
 
-Features may change or be updated at any time.
+Misuse may result in restricted or revoked access.
 
-3. Data Usage
+---
 
-Korvex may store limited Discord-related data such as:
+## 4. Data Usage
+Korvex stores limited data required for functionality, such as:
+- Discord User IDs  
+- Discord Server (Guild) IDs  
+- AFK statuses and timestamps  
 
-User IDs
+Data is used strictly to operate bot features.
 
-Server (Guild) IDs
+---
 
-AFK statuses
+## 5. Availability & Warranty
+Korvex is provided **“as is”** without warranties of any kind. Uptime, availability, or error-free operation is not guaranteed.
 
-Command usage data
+---
 
-This data is used only to provide bot functionality.
+## 6. Termination
+Access to Korvex may be suspended or terminated at any time if these terms are violated or if continued use is deemed harmful.
 
-4. Prohibited Use
+---
 
-You may not:
+## 7. Contact & Support
+For questions, support, or concerns regarding these terms, contact us via: 
+- **Support Server:** [Click to Join](https://discord.gg/VkPKjjQEBt)
 
-Use Korvex to violate Discord’s Terms of Service
+---
 
-Abuse, spam, or exploit bot commands
-
-Attempt to reverse engineer or disrupt the bot
-
-5. Availability
-
-Korvex is provided “as is” with no guarantee of uptime or error-free operation.
-
-6. Termination
-
-Access to Korvex may be revoked at any time for violations of these terms or misuse.
-
-7. Contact & Support
-
-If you have questions about these terms or need support, you may contact us through:
-
-Support Server: https://discord.gg/VkPKjjQEBt
-
-8. Changes to Terms
-
-These terms may be updated at any time. Continued use of the bot means acceptance of the updated terms.
+## 8. Changes to These Terms
+These Terms of Service may be updated at any time. Continued use of Korvex after changes are posted constitutes acceptance of the revised terms.
