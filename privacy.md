@@ -1,61 +1,58 @@
-🔒 Privacy Policy
+# Privacy Policy
 
-Last Updated: February 2026
+**Last Updated:** February 2026
 
-Your privacy matters. This policy explains how Korvex collects and uses data.
+This Privacy Policy explains how **Korvex** (“the bot”) collects, uses, and protects data when you use its services.
 
-1. Data Collected
+---
 
-Korvex may collect and store:
+## 1. Information Collected
+Korvex may collect and store the following data:
+- Discord User IDs  
+- Discord Server (Guild) IDs  
+- AFK messages and timestamps  
+- Command usage metadata  
 
-Discord User IDs
+No personal information outside of Discord is collected.
 
-Discord Server (Guild) IDs
+---
 
-AFK messages and timestamps
+## 2. How Data Is Used
+Collected data is used solely to:
+- Provide and maintain bot features  
+- Ensure proper functionality  
+- Improve reliability and performance  
 
-Command usage metadata
+---
 
-No personal data outside Discord is collected.
+## 3. Data Sharing
+Korvex does **not** sell, rent, or share collected data with third parties.
 
-2. How Data Is Used
+---
 
-Data is used solely to:
+## 4. Data Storage & Security
+Data is stored securely and retained only for as long as necessary to support bot functionality.
 
-Provide bot features
+---
 
-Maintain bot functionality
+## 5. Data Removal
+You may request data removal by:
+- Removing Korvex from your server  
+- Using available in-bot commands (if applicable)  
+- Contacting support directly  
 
-Improve performance and reliability
+---
 
-3. Data Sharing
+## 6. Children’s Privacy
+Korvex complies with Discord’s age requirements and does not knowingly collect data from users under the age of 13.
 
-Korvex does not sell, trade, or share your data with third parties.
+---
 
-4. Data Storage
-
-Data is stored securely and retained only as long as necessary for bot functionality.
-
-5. Data Removal
-
-Users or server owners may request data removal by:
-
-Removing the bot from the server
-
-Using available bot commands (where applicable)
-
-Contacting support
-
-6. Children’s Privacy
-
-Korvex complies with Discord’s age restrictions and does not knowingly collect data from users under 13.
-
-7. Contact Information
-
+## 7. Contact Information
 For privacy-related questions or data requests, contact:
+- **Support Server:** [click to Join](https://discord.gg/VkPKjjQEBt)
 
-Support Server: https://discord.gg/VkPKjjQEBt
+---
 
-8. Policy Updates
-
-This policy may be updated. Continued use of Korvex implies agreement with the latest version.
+## 8. Policy Updates
+This Privacy Policy may be updated periodically. Continued use of Korvex indicates acceptance of the latest version.
