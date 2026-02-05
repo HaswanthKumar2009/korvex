@@ -1,4 +1,4 @@
-# Terms of Service — Korvex
+# Terms of Service
 
 **Last Updated:** February 2026
 
